@@ -1,0 +1,11 @@
+USE AdventureWorksLT2022
+GO  
+
+SELECT ProductID, ProductCategoryID, * FROM [SalesLT].[Product]
+GO
+
+BEGIN /*[LOWER] RETORNA TODOS OS CARACETERES DA RESPOSTA À CONSULTA EM LETRAS MINÚSCULA*/
+
+	SELECT LOWER(A.Name), A.Name FROM SalesLT.Product AS A
+           
+END 

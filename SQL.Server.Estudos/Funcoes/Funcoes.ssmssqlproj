@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Funcoes">
+  <Items>
+    <LogicalFolder Name="Conexões" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="NITRO5\SQLEXPRESS:NITRO5\thiag">
+          <Created>2025-01-11T15:49:11.0385779-03:00</Created>
+          <Type>SQL</Type>
+          <Server>NITRO5\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Autenticação do Windows</Authentication>
+          <InitialDB>AdventureWorksLT2022</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Consulta</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Consultas" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="COALESCE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NITRO5\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NITRO5\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>COALESCE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CONCAT..sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NITRO5\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NITRO5\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CONCAT..sql</FullPath>
+        </FileNode>
+        <FileNode Name="LENGHT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NITRO5\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NITRO5\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LENGHT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LOWER.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NITRO5\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NITRO5\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LOWER.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LPAD-REPLICATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NITRO5\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NITRO5\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LPAD-REPLICATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LTRIM.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NITRO5\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NITRO5\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LTRIM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="REPLACE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NITRO5\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NITRO5\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>REPLACE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RPAD-REPLICATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NITRO5\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NITRO5\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>RPAD-REPLICATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RTRIM.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NITRO5\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NITRO5\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>RTRIM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SUBSTR.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NITRO5\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NITRO5\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SUBSTR.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPPER.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NITRO5\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NITRO5\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>UPPER.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Diversos" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
