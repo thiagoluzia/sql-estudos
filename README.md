@@ -6,8 +6,8 @@ Este repositório contém exemplos e scripts relacionados ao uso do **SQL Server
 
 Abaixo estão os arquivos e pastas organizados no repositório:
 
-### **Funções**
-Scripts que exemplificam o uso de diferentes funções no SQL Server:
+### **Funções de caracteres**
+Scripts que exemplificam o uso de diferentes funções de caraceteres no SQL Server:
 
 - `COALESCE.sql` - Exemplo de uso da função `COALESCE` para lidar com valores nulos.
 - `CONCAT.sql` - Demonstração de como concatenar strings com a função `CONCAT`.
@@ -20,6 +20,11 @@ Scripts que exemplificam o uso de diferentes funções no SQL Server:
 - `RTRIM.sql` - Remove espaços em branco à direita de uma string.
 - `SUBSTR.sql` - Demonstração de como extrair partes de strings.
 - `UPPER.sql` - Converte strings para letras maiúsculas.
+
+### **Funções númericas**
+Scripts que exemplificam o uso de diferentes funções númericas no SQL Server:
+
+- `AVG.sql` - Exemplo de uso da função `AVG` para lidar com media matemática.
 
 ### **Outros Arquivos**
 - `SQL.Server.Estudos.ssmssqlproj` - Arquivo do projeto no SQL Server Management Studio (SSMS).
